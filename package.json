@@ -9,6 +9,6 @@
   "author": "W3villa Technologies",
   "license": "ISC",
   "dependencies": {
-    "underscore": "^1.9.2"
+    "underscore": "^1.12.1"
   }
 }
